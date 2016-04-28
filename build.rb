@@ -18,7 +18,8 @@ require 'json'
         },
         :properties => {
           :code => code,
-          :url => "http://madefor.github.io/0410/api/v1/#{code}.geojson"
+          :url => "http://madefor.github.io/0410/api/v1/#{code}.geojson",
+          :view => "https://github.com/madefor/0410/blob/gh-pages/api/v1/#{code}.geojson"
         }
       })
     }

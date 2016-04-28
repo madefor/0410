@@ -1,1 +1,1 @@
-{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[153.0,28.0],[153.0,28.666666666666668],[154.0,28.666666666666668],[154.0,28.0],[153.0,28.0]]]},"properties":{"code":4253,"url":"http://madefor.github.io/0410/api/v1/4253.geojson"}}
+{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[153.0,28.0],[153.0,28.666666666666668],[154.0,28.666666666666668],[154.0,28.0],[153.0,28.0]]]},"properties":{"code":4253,"url":"http://madefor.github.io/0410/api/v1/4253.geojson","view":"https://github.com/madefor/0410/blob/gh-pages/api/v1/4253.geojson"}}
